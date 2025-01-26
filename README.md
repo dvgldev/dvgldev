@@ -19,4 +19,4 @@ Here are a few technologies and tools I often work with:
 ![dvgldev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvgldev&show_icons=true&theme=dark)
 
 ## Contact
-<a href="mailto:kd.dvgl@gmail.com"><img src="https://i.imgur.com/JnTJw4U.png" alt="gmail"/></a> <a href="https://t.me/kd_dvgl"><img src="https://i.imgur.com/v59jpQU.png" alt="Telegram"/></a> <a href="https://www.instagram.com/kd.dvgl/"><img src="https://i.imgur.com/3FyTjF2.png" alt="Instagram"/></a><a href="https://www.linkedin.com/in/dvgldev/"><img src="https://i.imgur.com/iFvwrgd.png" alt="Linkedin"/></a>
+<a href="mailto:kd.dvgl@gmail.com"><img src="https://i.imgur.com/JnTJw4U.png" alt="gmail"/></a>   <a href="https://t.me/kd_dvgl"><img src="https://i.imgur.com/v59jpQU.png" alt="Telegram"/></a>   <a href="https://www.instagram.com/kd.dvgl/"><img src="https://i.imgur.com/3FyTjF2.png" alt="Instagram"/></a>   <a href="https://www.linkedin.com/in/dvgldev/"><img src="https://i.imgur.com/iFvwrgd.png" alt="Linkedin"/></a>
