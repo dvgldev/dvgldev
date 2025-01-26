@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Below, you'll find details about my coding interes
 
 ## Technologies & Tools
 Here are a few technologies and tools I often work with:
-- Programming Languages: **JavaScript**, **Python**, **TypeScript**;
+- Programming Languages: **JavaScript**, **PHP**, **Python**, **TypeScript**;
 - Frontend: **React**, **Next.js**;
 - Backend: **Node.js**, **Express**;
 - Databases: **MongoDB**, **PostgreSQL**, **MySQL**;
