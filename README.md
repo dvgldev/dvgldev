@@ -19,7 +19,7 @@ Here are a few technologies and tools I often work with:
 ![dvgldev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvgldev&show_icons=true&theme=dark)
 
 ## Contact
-- <a href="mailto:kd.dvgl@gmail.com">Email</a>
+- <a href="mailto:kd.dvgl@gmail.com"><img src="https://i.imgur.com/JnTJw4U.png" alt="gmail"/></a>
 - <a href="https://t.me/kd_dvgl">Telegram</a>
 - <a href="https://www.instagram.com/kd.dvgl/">Instagram</a>
 - <a href="https://www.linkedin.com/in/dvgldev/">LinkedIn</a>
