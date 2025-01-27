@@ -13,7 +13,7 @@ Here are a few technologies and tools I often work with:
 - Frontend: **React**, **Next.js**;
 - Backend: **Node.js**, **Express**;
 - Databases: **MongoDB**, **PostgreSQL**, **MySQL**;
-- Other Tools: **Docker**, **Git**, **VS Code**.
+- Other Tools: **Docker**, **Git**.
 
 ## GitHub Stats
 ![dvgldev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvgldev&show_icons=true&theme=dark)
