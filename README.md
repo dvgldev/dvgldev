@@ -3,9 +3,9 @@ Welcome to my GitHub profile! I'm a web enthusiast who loves building sleek and 
 Thanks for stopping by! If you like what you see, drop a ⭐ and let's connect!
 
 ✨ **What I do:**
-- 🏗️ Crafting responsive and dynamic web applications
-- 🔍 Exploring the latest frontend trends & best practices
-- 🎨 Enhancing UI/UX with clean and elegant design
+- Crafting responsive and dynamic web applications
+- Exploring the latest frontend trends & best practices
+- Enhancing UI/UX with clean and elegant design
 
 ## Tech Stack
 ### Work with
