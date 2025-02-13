@@ -1,5 +1,5 @@
 ## 👋 Hey there!
-Welcome to my GitHub profile! I'm a web enthusiast who loves building sleek and functional user interfaces. Always on the lookout for new challenges and opportunities to grow.
+Welcome to my GitHub profile! I'm a web developer who loves building sleek and functional user interfaces and websites. Always on the lookout for new challenges and opportunities to grow.
 Thanks for stopping by! If you like what you see, drop a ⭐ and let's connect!
 
 ✨ **What I do:**
