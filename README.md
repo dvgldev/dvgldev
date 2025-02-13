@@ -7,8 +7,8 @@ Thanks for stopping by! If you like what you see, drop a ⭐ and let's connect!
 - Exploring the latest frontend trends & best practices
 - Enhancing UI/UX with clean and elegant design
 
-## Tech Stack
-### Work with
+## ⌨️ Tech Stack
+Work with
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40px" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40px" />
@@ -23,7 +23,7 @@ Thanks for stopping by! If you like what you see, drop a ⭐ and let's connect!
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40px" />
 </p>
 
-### Also try to work with:
+Also try to work with:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40px" />
   <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40px" />
