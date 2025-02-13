@@ -1,19 +1,55 @@
-# Hi there 👋
+## 👋 Hey there!
+Welcome to my GitHub profile! I'm a web enthusiast who loves building sleek and functional user interfaces. Always on the lookout for new challenges and opportunities to grow.
+Thanks for stopping by! If you like what you see, drop a ⭐ and let's connect!
 
-Welcome to my GitHub profile! Below, you'll find details about my coding interests, projects, and the tools I enjoy using.
+✨ **What I do:**
+- 🏗️ Crafting responsive and dynamic web applications
+- 🔍 Exploring the latest frontend trends & best practices
+- 🎨 Enhancing UI/UX with clean and elegant design
 
-## About Me
-- Passionate about exploring new technologies and improving software development practices.
-- I enjoy solving problems with clean, efficient code.
-- Currently focusing on building side projects using modern web frameworks and cloud services.
+<br>
 
-## Technologies & Tools
-Here are a few technologies and tools I often work with:
-- Programming Languages: **JavaScript**, **PHP**, **Python**, **TypeScript**;
-- Frontend: **React**, **Next.js**;
-- Backend: **Node.js**, **Express**;
-- Databases: **MongoDB**, **PostgreSQL**, **MySQL**;
-- Other Tools: **Docker**, **Git**.
+## Tech Stack
+### Work with
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40px" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40px" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="40px" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40px" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40px" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40px" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40px" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40px" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40px" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40px" />
+</p>
 
-## Contact
-<a href="https://t.me/kd_dvgl"><img src="https://i.imgur.com/v59jpQU.png" alt="Telegram"/></a> <a href="https://www.instagram.com/kd.dvgl/"><img src="https://i.imgur.com/3FyTjF2.png" alt="Instagram"/></a> <a href="https://www.linkedin.com/in/dvgldev/"><img src="https://i.imgur.com/iFvwrgd.png" alt="Linkedin"/></a> <a href="mailto:kd.dvgl@gmail.com"><img src="https://i.imgur.com/a8MAq6J.png" alt="gmail"/></a>
+### Also try to work with:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40px" />
+  <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40px" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40px" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40px" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40px" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40px" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40px" />
+  <img src="https://skillicons.dev/icons?i=php" alt="php" width="40px" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40px" />
+</p>
+
+<br>
+
+## 📲 Social media
+<p align="left">
+  <a href="https://t.me/kd_dvgl" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/none/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/dvgldev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
