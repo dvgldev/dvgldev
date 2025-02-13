@@ -7,8 +7,6 @@ Thanks for stopping by! If you like what you see, drop a ⭐ and let's connect!
 - 🔍 Exploring the latest frontend trends & best practices
 - 🎨 Enhancing UI/UX with clean and elegant design
 
-<br>
-
 ## Tech Stack
 ### Work with
 <p align="left">
@@ -38,8 +36,6 @@ Thanks for stopping by! If you like what you see, drop a ⭐ and let's connect!
   <img src="https://skillicons.dev/icons?i=php" alt="php" width="40px" />
   <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40px" />
 </p>
-
-<br>
 
 ## 📲 Social media
 <p align="left">
