@@ -26,13 +26,8 @@ Work with
 Also try to work with:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40px" />
-  <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40px" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40px" />
   <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40px" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40px" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40px" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40px" />
   <img src="https://skillicons.dev/icons?i=php" alt="php" width="40px" />
   <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40px" />
 </p>
