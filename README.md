@@ -10,26 +10,14 @@ Thanks for stopping by! If you like what you see, drop a ⭐ and let's connect!
 ## ⌨️ Tech Stack
 Work with
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40px" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40px" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="40px" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40px" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40px" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" />
   <br>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40px" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40px" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40px" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40px" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40px" />
+  <img src="https://skillicons.dev/icons?i=docker,git,react,nodejs,nextjs" />
 </p>
 
 Also try to work with:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40px" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40px" />
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40px" />
-  <img src="https://skillicons.dev/icons?i=php" alt="php" width="40px" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40px" />
+  <img src="https://skillicons.dev/icons?i=prisma,mongodb,mysql,postgresql,figma" />
 </p>
 
 ## 📲 Social media
