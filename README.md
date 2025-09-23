@@ -2,11 +2,6 @@
 Welcome to my GitHub profile! I'm a web developer who loves building sleek and functional user interfaces and websites. Always on the lookout for new challenges and opportunities to grow.
 Thanks for stopping by! If you like what you see, drop a ⭐ and let's connect!
 
-✨ **What I do:**
-- Crafting responsive and dynamic web applications
-- Exploring the latest frontend trends & best practices
-- Enhancing UI/UX with clean and elegant design
-
 ## ⌨️ Tech Stack
 Work with
 <p align="left">
